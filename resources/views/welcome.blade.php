@@ -44,7 +44,7 @@
                 <div class="mt-8">
                     <h1 class="text-center"><a href="/login">Login</a> | <a href="/register">Register</a></h1>
                     <h3 class="text-center">MultiBlog</h3>
-                    <a class="text-center" href="">Github:</a>
+                    <h4 class="text-center"><a target="_blank" href="https://github.com/fthyuksel/multiblog">Github</a></h4>
                 </div>
 
 
